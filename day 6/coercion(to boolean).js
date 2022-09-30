@@ -13,3 +13,10 @@ Now point is both checks value and perform further operations. Then whats the ma
 Note--> abstract equality checks and performs coercion.
  
 strict equality doesnt perform coercion it directly performs operations.
+
+For example
+
+x=10;
+y=1;
+console.log(x===y);
+
