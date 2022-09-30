@@ -25,4 +25,10 @@ Case : when objects come into picture
 console.log({}==={}); // o/p would be false
 
 
+//but now a catch
+x={}; 
+
+// This is the concept of object value and we cam see x is pointing to a object now this time ojects are not compared but x is compared and x is pointing so true.
+
+console.log(x===x);
 
