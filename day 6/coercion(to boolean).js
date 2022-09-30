@@ -29,6 +29,5 @@ console.log({}==={}); // o/p would be false
 x={}; 
 
 // This is the concept of object value and we cam see x is pointing to a object now this time ojects are not compared but x is compared and x is pointing so true.
-
-console.log(x===x);
-
+Because we dont know what objects are being pointed out.
+console.log(x===x);   o/p would be true
