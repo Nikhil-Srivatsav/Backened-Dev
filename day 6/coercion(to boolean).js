@@ -20,3 +20,9 @@ x=10;
 y=1;
 console.log(x===y);
 
+Case : when objects come into picture 
+
+console.log({}==={}); // o/p would be false
+
+
+
